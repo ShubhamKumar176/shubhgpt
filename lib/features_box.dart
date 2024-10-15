@@ -10,7 +10,7 @@ class FeaturesBox extends StatelessWidget {
       required this.color,
       required this.headerText,
       required this.descriptionText});
-
+ 
   @override
   Widget build(BuildContext context) {
     return Container(
