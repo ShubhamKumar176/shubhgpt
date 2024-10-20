@@ -4,7 +4,7 @@ import 'package:shubhgpt/pallete.dart';
 class FeaturesBox extends StatelessWidget {
   final Color color;
   final String headerText;
-  final String descriptionText;
+  final String descriptionText; 
   const FeaturesBox(
       {super.key,
       required this.color,
