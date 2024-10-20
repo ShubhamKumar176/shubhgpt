@@ -6,7 +6,7 @@ class FeaturesBox extends StatelessWidget {
   final String headerText;
   final String descriptionText; 
   const FeaturesBox(
-      {super.key,
+      {super.key, 
       required this.color,
       required this.headerText,
       required this.descriptionText});
