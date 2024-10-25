@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shubhgpt/features_box.dart';
 import 'package:shubhgpt/pallete.dart';
-
+  
 class HomePage extends StatefulWidget { 
   const HomePage({super.key});
 
