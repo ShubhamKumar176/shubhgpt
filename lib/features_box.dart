@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shubhgpt/pallete.dart';
 
-class FeaturesBox extends StatelessWidget {
+class FeaturesBox extends StatelessWidget { 
   final Color color;
   final String headerText;
   final String descriptionText; 
